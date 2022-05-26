@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 // no need to modify anything in here. The second test is looking for the returned JSX from this component
 function ExampleComponent() {
@@ -10,7 +10,7 @@ function ExampleComponent() {
       />
       <p>Whoa!</p>
     </div>
-  );
+  )
 }
 
-export default ExampleComponent;
+export default ExampleComponent
